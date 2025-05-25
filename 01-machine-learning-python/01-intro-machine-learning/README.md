@@ -1,6 +1,6 @@
 # 📘 Module 1 Summary and Highlights – Introduction to Machine Learning
 
-Congratulations! You’ve completed Module 1 of the IBM Machine Learning with Python course. Here’s a recap of the essential takeaways from this foundational module:
+Module 1 of the IBM Machine Learning with Python course. Here’s a recap of the essential takeaways from this foundational module:
 
 ---
 

@@ -1,7 +1,6 @@
 # ✅ Module Summary: Introduction to Neural Networks and Deep Learning
-
-Congratulations! You’ve completed this module. 🎉  
-Here’s a recap of the key concepts you’ve learned:
+  
+Here’s a recap of the key concepts I've learned:
 
 ---
 
